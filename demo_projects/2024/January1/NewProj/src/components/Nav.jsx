@@ -74,7 +74,7 @@ const Nav = () => {
         <h3 class="font-semibold text-gray-900 dark:text-white">Popover bottom</h3>
     </div>
     <div class="px-3 py-2">
-        <p>And here's some amazing content. It's very engaging. Right?</p>
+        
     </div>
     <div data-popper-arrow></div>
 </div>
