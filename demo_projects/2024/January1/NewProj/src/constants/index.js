@@ -51,13 +51,13 @@ export const navLinks = [
   {
     id: "home",
     icon: home,
-    title: "Patients & Visitors",
+    title: "Patient Portal",
   },
   
   {
     id: "services",
     icon: customer,
-    title: "Conditions & Treatments",
+    title: "Pakages & Discounts",
   },
   
   {
@@ -69,12 +69,12 @@ export const navLinks = [
   {
     id: "doctors",
     icon: doctor,
-    title: "Health Plus",
+    title: "Notices",
   },
   {
     id: "branches",
     icon: branch,
-    title: "Why Choose Us",
+    title: "Contact Us",
   },
   
   
